@@ -1,1 +1,1 @@
-# Amazon-projects
+# Katalon_Automation_Testing_SB_Amazon
